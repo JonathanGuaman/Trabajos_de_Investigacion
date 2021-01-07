@@ -55,7 +55,7 @@ Para realizar los distintos analisis de los circuitos electricos debemos tomar e
 
 ### Articulo:
 
-![](https://github.com/JonathanGuaman/Trabajos_de_Investigacion/blob/main/Articulo/Convers%C3%B3n%20de%20circuitos.pdf)
+![](https://github.com/JonathanGuaman/Trabajos_de_Investigacion/blob/672c95d4a8563732d02f5c8b2d60b6f109d834a7/Articulo/Convers%C3%B3n%20de%20circuitos.pdf)
 
 
 
