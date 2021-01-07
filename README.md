@@ -16,7 +16,7 @@ Para realizar los distintos analisis de los circuitos electricos debemos tomar e
 
 - Conversion de Fuentes:
 
-! [] (https://github.com/JonathanGuaman/Trabajos_de_Investigacion/blob/cb69f98ba5f0350e06f526083898858a2bddc528/Diagramas/Diagrama1.png)
+![](https://github.com/JonathanGuaman/Trabajos_de_Investigacion/blob/cb69f98ba5f0350e06f526083898858a2bddc528/Diagramas/Diagrama1.png)
 
 
 - Teorema de Superposicion:
