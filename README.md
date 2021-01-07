@@ -6,3 +6,24 @@ Trabajos de Investigación #1 (Teoremas de circuitos y conversion)
 -  Analizar y calcular los circuitos electricos donde requieren mas de 2 fuentes de voltaje para usar el teorema de superposicion.
 - Comprender el metodo de Thevenin y Norton para encontrar soluciones complejas en los circuitos electricos.
 
+### Marco Teorico:
+Para realizar los distintos analisis de los circuitos electricos debemos tomar en cuenta que existe diversos tipos de maneras de hacerlo que son las siguientes:
+
+
+
+### Diagramas:
+- Fuente de Voltaje Directo:
+
+_ Conversion de fuente:
+
+- Teorema de Superposicion:
+ 
+- Teorema de Thevenin:
+
+- Teorema de Norton
+
+- Teorema de Transferencia de Potencia:
+
+- Conversion de Delta a Estrella:
+
+
