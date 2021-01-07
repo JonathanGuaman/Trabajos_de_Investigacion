@@ -14,7 +14,7 @@ Para realizar los distintos analisis de los circuitos electricos debemos tomar e
 ### Diagramas:
 - Fuente de Voltaje Directo:
 
-_ Conversion de fuente:
+- Conversion de Fuentes:
 
 - Teorema de Superposicion:
  
@@ -26,4 +26,17 @@ _ Conversion de fuente:
 
 - Conversion de Delta a Estrella:
 
+### Explicacion:
+
+
+### Conclusiones:
+
+
+###Bibliografia:
+
+![] (http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf)
+
+
+
+### Anexos:
 
