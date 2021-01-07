@@ -29,7 +29,12 @@ Para realizar los distintos analisis de los circuitos electricos debemos tomar e
 ### Explicacion:
 
 
-### Conclusiones:
+### Conclusiones
+
+•	Por lo tanto, el uso del teorema de Norton nos ayuda a poder ver de una mejor manera, para que el mismo sea resuelto de mejor manera, simplificado de mejor manera y las fuentes de voltaje y corriente tienen un papel muy importante, ya que los mismos se los usan como cortocircuito, o se abre el circuito.
+•	El teorema de superposición mejoró la simplificación de un circuito, especialmente cuando existen mas de dos fuentes de alimentación, transformándola en una fuente de alimentación.
+
+
 
 
 ### Bibliografia:
