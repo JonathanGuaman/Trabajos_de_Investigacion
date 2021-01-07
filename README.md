@@ -35,7 +35,7 @@ Para realizar los distintos analisis de los circuitos electricos debemos tomar e
 ###Bibliografia:
 
 ![] (http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf)
-
+j
 
 
 ### Anexos:
