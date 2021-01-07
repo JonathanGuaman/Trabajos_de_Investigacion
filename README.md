@@ -21,14 +21,27 @@ Para realizar los distintos analisis de los circuitos electricos debemos tomar e
 
 - Teorema de Superposicion:
  
+![](https://github.com/JonathanGuaman/Trabajos_de_Investigacion/blob/cb69f98ba5f0350e06f526083898858a2bddc528/Diagramas/Diagrama2.png)
+
  
 - Teorema de Thevenin:
 
+![](https://github.com/JonathanGuaman/Trabajos_de_Investigacion/blob/cb69f98ba5f0350e06f526083898858a2bddc528/Diagramas/Diagrama4.png)
+
+
 - Teorema de Norton
+
+![](https://github.com/JonathanGuaman/Trabajos_de_Investigacion/blob/cb69f98ba5f0350e06f526083898858a2bddc528/Diagramas/Diagrama5.png)ç
+
 
 - Teorema de Transferencia de Potencia:
 
-- Conversion de Delta a Estrella:
+![](https://github.com/JonathanGuaman/Trabajos_de_Investigacion/blob/cb69f98ba5f0350e06f526083898858a2bddc528/Diagramas/Diagrama7.png)
+
+
+- Conversion de Delta a Estrella
+
+![](https://github.com/JonathanGuaman/Trabajos_de_Investigacion/blob/cb69f98ba5f0350e06f526083898858a2bddc528/Diagramas/Diagrama6.png)
 
 ### Explicacion:
 
