@@ -47,6 +47,8 @@ Para realizar los distintos analisis de los circuitos electricos debemos tomar e
 
 ### Explicacion:
 
+![](https://github.com/JonathanGuaman/Trabajos_de_Investigacion/blob/main/Explicacion/Explicacion.pdf)
+
 
 ### Conclusiones
 
