@@ -9,6 +9,8 @@ Trabajos de Investigación #1 (Teoremas de circuitos y conversion)
 ### Marco Teorico:
 Para realizar los distintos analisis de los circuitos electricos debemos tomar en cuenta que existe diversos tipos de maneras de hacerlo que son las siguientes:
 
+![](https://github.com/JonathanGuaman/Trabajos_de_Investigacion/blob/cb69f98ba5f0350e06f526083898858a2bddc528/Diagramas/Marco%20Teorico.png)
+
 
 
 ### Diagramas:
